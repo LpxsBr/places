@@ -1,0 +1,180 @@
+{
+    "places": [
+        {
+            "name": "Ponte dos Ingleses",
+            "address": "Av. Vicente de Castro, Fortaleza - CE",
+            "schedule": "Aberto todos os dias, 24 horas",
+            "petFriendly": "Sim",
+            "haveMusic": "Não",
+            "images": {
+                "main": "url_da_imagem_principal",
+                "banner1": "url_do_banner1",
+                "banner2": "url_do_banner2",
+                "banner3": "url_do_banner3"
+            },
+            "history": "A Ponte dos Ingleses, também conhecida como Ponte Metálica...",
+            "observations": "Vista panorâmica incrível da orla de Fortaleza.",
+            "attractions": "Local para caminhadas e apreciação do pôr do sol.",
+            "whatdo": "Desfrute da vista panorâmica e tire fotos memoráveis.",
+            "tags": [
+                "ponte",
+                "panorama",
+                "pôr do sol"
+            ]
+        },
+        {
+            "name": "Parque Ecológico do Cocó",
+            "address": "Av. Padre Antônio Tomás, Fortaleza - CE",
+            "schedule": "Aberto todos os dias, das 6h às 18h",
+            "petFriendly": "Sim",
+            "haveMusic": "Não",
+            "images": {
+                "main": "url_da_imagem_principal",
+                "banner1": "url_do_banner1",
+                "banner2": "url_do_banner2",
+                "banner3": "url_do_banner3"
+            },
+            "history": "O Parque Ecológico do Cocó é uma área verde preservada...",
+            "observations": "Trilhas para caminhadas e atividades ao ar livre.",
+            "attractions": "Natureza exuberante, fauna e flora diversificadas.",
+            "whatdo": "Explore a natureza e faça atividades ao ar livre.",
+            "tags": [
+                "parque",
+                "natureza",
+                "caminhada"
+            ]
+        },
+        {
+            "name": "Teatro José de Alencar",
+            "address": "R. Liberato Barroso, 525 - Centro, Fortaleza - CE",
+            "schedule": "Varia de acordo com as peças e eventos",
+            "petFriendly": "Não",
+            "haveMusic": "Sim",
+            "images": {
+                "main": "url_da_imagem_principal",
+                "banner1": "url_do_banner1",
+                "banner2": "url_do_banner2",
+                "banner3": "url_do_banner3"
+            },
+            "history": "O Teatro José de Alencar é um marco cultural com...",
+            "observations": "Compre ingressos com antecedência para eventos populares.",
+            "attractions": "Apresentações teatrais, concertos e eventos culturais.",
+            "whatdo": "Assista a uma peça teatral ou concerto musical.",
+            "tags": [
+                "teatro",
+                "cultura",
+                "entretenimento"
+            ]
+        },
+        {
+            "name": "Praça Portugal",
+            "address": "Av. Dom Luís, Fortaleza - CE",
+            "schedule": "Aberto todos os dias, 24 horas",
+            "petFriendly": "Sim",
+            "haveMusic": "Não",
+            "images": {
+                "main": "url_da_imagem_principal",
+                "banner1": "url_do_banner1",
+                "banner2": "url_do_banner2",
+                "banner3": "url_do_banner3"
+            },
+            "history": "A Praça Portugal é um local central movimentado...",
+            "observations": "Ponto de encontro popular, especialmente à noite.",
+            "attractions": "Lojas, cafés, e movimento noturno.",
+            "whatdo": "Passeie pela praça e experimente cafés locais.",
+            "tags": [
+                "praça",
+                "compras",
+                "movimento noturno"
+            ]
+        },
+        {
+            "name": "Praia do Cumbuco",
+            "address": "Cumbuco, Caucaia - CE",
+            "schedule": "Aberto todos os dias, 24 horas",
+            "petFriendly": "Sim",
+            "haveMusic": "Sim",
+            "images": {
+                "main": "url_da_imagem_principal",
+                "banner1": "url_do_banner1",
+                "banner2": "url_do_banner2",
+                "banner3": "url_do_banner3"
+            },
+            "history": "A Praia do Cumbuco é famosa por suas dunas e ventos ideais...",
+            "observations": "Local popular para a prática de kitesurf.",
+            "attractions": "Passeios de buggy, esportes aquáticos.",
+            "whatdo": "Aventure-se nas dunas e aproveite esportes aquáticos.",
+            "tags": [
+                "praia",
+                "aventura",
+                "kitesurf"
+            ]
+        },
+        {
+            "name": "Museu da Fotografia Fortaleza",
+            "address": "Rua Frederico Borges, 545 - Varjota, Fortaleza - CE",
+            "schedule": "Terça a sexta, das 12h às 20h; Sábado e domingo, das 10h às 18h",
+            "petFriendly": "Não",
+            "haveMusic": "Não",
+            "images": {
+                "main": "url_da_imagem_principal",
+                "banner1": "url_do_banner1",
+                "banner2": "url_do_banner2",
+                "banner3": "url_do_banner3"
+            },
+            "history": "O Museu da Fotografia Fortaleza exibe uma coleção...",
+            "observations": "Explore a história visual por meio de exposições fotográficas.",
+            "attractions": "Exposições temporárias e acervo permanente.",
+            "whatdo": "Aprecie a arte da fotografia e participe de eventos.",
+            "tags": [
+                "museu",
+                "fotografia",
+                "arte"
+            ]
+        },
+        {
+            "name": "Feirinha da Beira-Mar",
+            "address": "Av. Beira Mar, Fortaleza - CE",
+            "schedule": "Aberto diariamente a partir das 17h",
+            "petFriendly": "Sim",
+            "haveMusic": "Sim",
+            "images": {
+                "main": "url_da_imagem_principal",
+                "banner1": "url_do_banner1",
+                "banner2": "url_do_banner2",
+                "banner3": "url_do_banner3"
+            },
+            "history": "A Feirinha da Beira-Mar é um local animado com barracas...",
+            "observations": "Compre artesanato local e experimente petiscos regionais.",
+            "attractions": "Artesanato, comidas típicas, apresentações culturais.",
+            "whatdo": "Explore as barracas, compre souvenirs e prove iguarias locais.",
+            "tags": [
+                "feira",
+                "artesanato",
+                "culinária"
+            ]
+        },
+        {
+            "name": "Praia de Mucuripe",
+            "address": "Av. Beira Mar, Fortaleza - CE",
+            "schedule": "Aberto todos os dias, 24 horas",
+            "petFriendly": "Sim",
+            "haveMusic": "Sim",
+            "images": {
+                "main": "url_da_imagem_principal",
+                "banner1": "url_do_banner1",
+                "banner2": "url_do_banner2",
+                "banner3": "url_do_banner3"
+            },
+            "history": "A Praia de Mucuripe é conhecida pela sua atmosfera...",
+            "observations": "Desfrute de um passeio tranquilo e experimente frutos do mar.",
+            "attractions": "Restaurantes à beira-mar, passeios de jangada.",
+            "whatdo": "Saboreie frutos do mar frescos e relaxe à beira-mar.",
+            "tags": [
+                "praia",
+                "frutos do mar",
+                "tranquilidade"
+            ]
+        }
+    ]
+}
